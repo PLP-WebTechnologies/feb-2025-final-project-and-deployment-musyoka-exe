@@ -5,13 +5,13 @@ This project is a static website and does not require any special build steps or
 
 1.  **Clone or Download the Repository:**
     ```bash
-    git clone https://your-repository-url.git
+    git clone https://github.com/plp-webtechnologies/feb-2025-final-project-and-deployment-musyoka-exe.git
     ```
     Or download the ZIP file and extract it.
 
 2.  **Navigate to the Project Directory:**
     ```bash
-    cd ainews-website
+    cd webtech-plp-final
     ```
 
 3.  **Open in Browser:**
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Your Name - samuelmusyoka086@gmail
 
-Project Link: [https://github.com/yourusername/ainews-website](https://github.com/yourusername/ainews-website)
+Project Link: [musyokas.netlify.app](musyokas.netlify.app)
