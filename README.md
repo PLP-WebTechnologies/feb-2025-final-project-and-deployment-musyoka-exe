@@ -78,6 +78,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-Your Name - samuelmusyoka086@gmail
+Your Name - samuelmusyoka086@gmail.com 
 
 Project Link: [musyokas.netlify.app](musyokas.netlify.app)
