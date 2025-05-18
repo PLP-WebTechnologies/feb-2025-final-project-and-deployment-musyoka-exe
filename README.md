@@ -78,6 +78,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - samuelmusyoka086@gmail
 
 Project Link: [https://github.com/yourusername/ainews-website](https://github.com/yourusername/ainews-website)
